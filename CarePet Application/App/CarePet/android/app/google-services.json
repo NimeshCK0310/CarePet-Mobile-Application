@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "388589472841",
+    "firebase_url": "https://carepet-b8bd3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carepet-b8bd3",
+    "storage_bucket": "carepet-b8bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388589472841:android:503183f4ab61a8528c8398",
+        "android_client_info": {
+          "package_name": "com.example.face_diseases_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljUCCd_ARkmehecPLaGJfq8vs43cJN7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

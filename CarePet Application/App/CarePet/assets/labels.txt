@@ -1,0 +1,5 @@
+Yeast_Infection
+Ticks
+Seborrhea
+Follicalitis
+Disease_Free_Skin

@@ -1,0 +1,22 @@
+0 affenpinscher
+1 afghan_hound
+2 african_hunting_dog
+3 airedale
+4 american_staffordshire_terrier
+5 appenzeller
+6 australian_terrier
+7 beagle
+8 shih-tzu
+9 Pomeranian
+10 Sri lankan Street dogs
+11 labrador_retriever
+12 german_shepherd
+13 rottweiler
+14 siberian_husky
+15 boxer
+16 golden_retriever
+17 doberman
+18 rhodesian_ridgeback
+19 french_bulldog
+20 cocker_spaniel
+21 english_springer
